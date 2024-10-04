@@ -1,9 +1,11 @@
-# How to Set Run my Dashboard! ✨
+# This is How You Run my Dashboard! ✨
 
 ## Setup Environment - Anaconda
-> conda create --name main-ds python=3.9
-> conda activate main-ds
-> pip install -r requirements.txt
+'''
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install -r requirements.txt
+'''
 
 ## Setup Environment - Shell/Terminal
 mkdir proyek_analisis_data
