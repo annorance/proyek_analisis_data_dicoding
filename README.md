@@ -6,6 +6,12 @@ conda create --name main-ds python=3.9
 conda activate main-ds
 pip install -r requirements.txt
 '''
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 ## Setup Environment - Shell/Terminal
 mkdir proyek_analisis_data
