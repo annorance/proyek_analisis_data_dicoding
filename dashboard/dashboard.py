@@ -13,8 +13,8 @@ st.sidebar.write('''
 st.sidebar.caption("Copyright © Nurul Fadillah 2024")
 
 # Load datasets
-q1_df = pd.read_csv('q1_df.csv')
-q2_df = pd.read_csv('q2_df.csv')
+q1_df = pd.read_csv('./q1_df.csv')
+q2_df = pd.read_csv('./q2_df.csv')
 
 
 # Set up Streamlit layout
